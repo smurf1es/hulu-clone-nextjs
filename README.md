@@ -10,4 +10,4 @@ git clone https://github.com/smurf1es/hulu-clone-nextjs.git [your-dir-name]
 
 Hulu icon - [https://links.papareact.com/ua6](https://links.papareact.com/ua6)
 
-TMDB content - [https://image.tmdb.org](https://image.tmdb.org)
+TMDB content - [https://www.themoviedb.org/documentation/api](https://www.themoviedb.org/documentation/api)
